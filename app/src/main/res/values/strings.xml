@@ -1,14 +1,16 @@
 <resources>
     <string name="app_name">Hello Squirrel</string>
 
-    <string name="first_name">FIRST</string>
-    <string name="last_name">LAST</string>
+    <string name="first_name">Roberto</string>
+    <string name="last_name">di Bari </string>
     <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">This a short bio about myself.\nIt has multiple lines because I am\na complex being.</string>
+    <string name="profile_bio_text">Hi There!👋🏻\n
+        I am an aspiring Software Engineer based in Miami! with a Passion for Coding💻</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
-    <string name="profile_hobby_first_text">🥇 FIRST HOBBY</string>
-    <string name="profile_hobby_second_text">🥈 SECOND HOBBY</string>
-    <string name="profile_hobby_third_text">🥉 THIRD HOBBY</string>
+    <string name="profile_hobby_first_text">🥇I love soccer! My favorite team is ACMilan⚽️</string>
+    <string name="profile_hobby_second_text">🥈Coding and Drinking Coffee💯</string>
+    <string name="profile_hobby_third_text">🥉 All types of extreme Sports!🏄🏻‍</string>
+    <string name="profile_hobby_header_last"> Nice to Meet you!🤙🏻</string>
 </resources>
